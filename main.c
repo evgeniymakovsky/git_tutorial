@@ -1,6 +1,7 @@
 #include < stdio.h >
 #include < unistd.h >
 
+int y=7;
 double t=0.1;
 
 int main (void)
