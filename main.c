@@ -2,5 +2,6 @@
 int main (void)
 {
 puts (“Hello world”);
+puts ("I am in repository");
 return 0;
 }
